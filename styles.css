@@ -1,6 +1,6 @@
-#body{
+body{
     margin: 0;
-
+    backround-color: cadetblue;
 }
 #calculator{
     font-family: Arial, sans-serif;
